@@ -7,8 +7,11 @@ namespace GradeCalculatorApp
         static void Main(string[] args)
         {
             // Create and run the grade calculator
-            GradeCalculator calculator = new GradeCalculator();
-            calculator.Run();
+            //GradeCalculator calculator = new GradeCalculator();
+            //calculator.Run();
+
+            TicketPriceCalculator ticketprice = new TicketPriceCalculator();
+            ticketprice.Run();
         }
     }
 }
