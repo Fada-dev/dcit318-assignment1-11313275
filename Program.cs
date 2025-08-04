@@ -10,8 +10,11 @@ namespace GradeCalculatorApp
             //GradeCalculator calculator = new GradeCalculator();
             //calculator.Run();
 
-            TicketPriceCalculator ticketprice = new TicketPriceCalculator();
-            ticketprice.Run();
+            //TicketPriceCalculator ticketprice = new TicketPriceCalculator();
+            //ticketprice.Run();
+
+            TriangleTypeIdentifier triangleIdentifier = new TriangleTypeIdentifier();
+            triangleIdentifier.Run();
         }
     }
 }
