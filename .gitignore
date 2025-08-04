@@ -1,0 +1,16 @@
+# Ignore Visual Studio temporary files, build results, and cache
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build output folders
+bin/
+obj/
+
+# Rider project files
+.idea/
+
+# OS junk files
+Thumbs.db
+.DS_Store
